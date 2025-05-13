@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(49, 54, 59);
+}
+
+h1 {
+    color: white;
+    font-size: 3rem;
+}
+
+.center-div {
+    margin: auto;
+    width: 50%;
+    padding: 2%;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.time {
+    font-size: 7rem;
+}
+
+.date {
+    font-size: 4rem;
+}
